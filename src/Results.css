@@ -1,11 +1,21 @@
 .Results {
-  width: 50%;
+  max-width: 800px;
   margin: auto;
 }
+
+.Results .word-display {
+  padding: 10px;
+  border: 4px solid;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px 2px rgb(0 0 0/20%);
+}
+
+.Results .word-display h2 {
+  margin-top: 20px;
+  padding: 10px;
+}
 .Results section {
-  padding: 20px;
-  margin-top: 50px;
-  border: 4px solid rgb(84, 87, 87);
+  margin-top: 40px;
   border-radius: 5px;
-  background-color: rgba(102, 107, 103, 0.14);
+  background-color: rgb(84, 87, 87);
 }

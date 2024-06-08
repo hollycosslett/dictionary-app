@@ -6,7 +6,7 @@ export default function Results(props) {
   if (props.results) {
     return (
       <div className="Results">
-        <section>
+        <section className="word-display">
           <h2 className="text-center">{props.results.word}</h2>
           <p className="text-center">{props.results.phonetic}</p>
         </section>
