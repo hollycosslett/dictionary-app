@@ -1,0 +1,11 @@
+.Results {
+  width: 50%;
+  margin: auto;
+}
+.Results section {
+  padding: 20px;
+  margin-top: 50px;
+  border: 4px solid rgb(84, 87, 87);
+  border-radius: 5px;
+  background-color: rgba(102, 107, 103, 0.14);
+}

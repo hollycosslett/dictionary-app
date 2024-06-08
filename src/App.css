@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(84, 87, 87);
+}
+
+.App .App-header {
+  text-align: center;
+  margin-top: 120px;
+  margin-bottom: 50px;
+}
+.App h1 {
+  font-size: 60px;
+}
+
+.App footer {
+  margin-top: 60px;
+}

@@ -1,0 +1,16 @@
+.Meaning {
+  border: 1px solid;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  background-color: rgb(84, 87, 87);
+}
+.Meaning h3,
+.Meaning p {
+  padding: 10px;
+  color: #212529;
+}
+
+.Meaning h3 {
+  font-size: 30px;
+}
