@@ -11,7 +11,27 @@ export default function App() {
         <main>
           <Dictionary />
         </main>
-        <footer>Coded by Holly Cosslett.</footer>
+        <footer>
+          This project was coded by{" "}
+          <a href="https://github.com/hollycosslett" target="blank">
+            Holly Cosslett
+          </a>
+          , open-sourced on{" "}
+          <a
+            href="https://github.com/hollycosslett/dictionary-app"
+            target="blank"
+          >
+            Github
+          </a>{" "}
+          and hosted on{" "}
+          <a
+            href="https://shecodes-react-dictionary-application.netlify.app"
+            target="blank"
+          >
+            Netlify
+          </a>
+          .
+        </footer>
       </div>
     </div>
   );

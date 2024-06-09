@@ -1,0 +1,12 @@
+.Images {
+  border: 1px solid rgb(60, 58, 58);
+  padding: 1px;
+}
+.Images .img-gallery {
+  padding: 2px;
+  background-color: rgb(60, 58, 58);
+}
+.Images img {
+  border-radius: 4px;
+  padding: 1px;
+}

@@ -1,11 +1,8 @@
-.Results {
-  max-width: 800px;
-  margin: auto;
-}
-
 .Results .word-display {
+  margin-top: 40px;
+  margin-bottom: 40px;
   padding: 10px;
-  border: 4px solid;
+  border: 2px solid;
   border-radius: 10px;
   box-shadow: 2px 2px 5px 2px rgb(0 0 0/20%);
 }
@@ -13,9 +10,4 @@
 .Results .word-display h2 {
   margin-top: 20px;
   padding: 10px;
-}
-.Results section {
-  margin-top: 40px;
-  border-radius: 5px;
-  background-color: rgb(84, 87, 87);
 }

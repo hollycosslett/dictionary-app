@@ -1,6 +1,17 @@
+.Dictionary {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
 .Dictionary form {
   font-size: 15px;
   text-align: center;
+}
+
+.Dictionary section {
+  border-radius: 5px;
+  padding: 5px;
+  background-color: rgb(84, 87, 87);
 }
 
 .Dictionary .input-box {
@@ -21,4 +32,9 @@
   font-weight: 400px;
   border: 1px solid rgba(102, 107, 103, 0.14);
   border-radius: 5px;
+}
+.Dictionary .form-button:hover {
+  background-color: rgba(102, 107, 103, 0.14);
+  color: rgb(29, 30, 29);
+  border: 1px solid rgb(160, 164, 160);
 }
