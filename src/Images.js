@@ -10,7 +10,13 @@ export default function Images(props) {
             {props.images.map(function (image, index) {
               return (
                 <div className="col-md-4 img-gallery" key={index}>
-                  <img src={image.src.landscape} alt="" className="img-fluid" />
+                  <a href={image.src.original} target="blank">
+                    <img
+                      src={image.src.landscape}
+                      alt=""
+                      className="img-fluid"
+                    />
+                  </a>
                 </div>
               );
             })}
