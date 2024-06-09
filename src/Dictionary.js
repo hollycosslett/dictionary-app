@@ -40,7 +40,7 @@ export default function Dictionary() {
           placeholder="Enter a word..."
           onChange={handleKeywordChange}
         />
-        <input className="form-button" type="submit" value="Submit" />
+        <input className="form-button" type="submit" value="Search" />
       </form>
       <div>
         <Results results={results} />

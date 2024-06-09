@@ -1,5 +1,6 @@
 body {
   background-color: rgb(84, 87, 87);
+  color: #212529;
 }
 
 .App .App-header {
@@ -9,6 +10,8 @@ body {
 }
 .App h1 {
   font-size: 60px;
+  font-weight: 550;
+  letter-spacing: 1px;
 }
 
 .App footer {

@@ -1,5 +1,5 @@
 .Meaning {
-  border: 1px solid;
+  border: 1px solid #212529;
   padding: 10px;
   margin-bottom: 10px;
   border-radius: 5px;
@@ -8,12 +8,10 @@
 .Meaning h3,
 .Meaning p {
   padding: 10px;
-  color: #212529;
 }
 
 .Meaning h3 {
   font-size: 35px;
-  color: #151616;
 }
 
 .Meaning p {

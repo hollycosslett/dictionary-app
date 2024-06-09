@@ -4,9 +4,10 @@
 }
 .Images .img-gallery {
   padding: 2px;
-  background-color: rgb(60, 58, 58);
+  background-color: #212529c9;
 }
 .Images img {
   border-radius: 4px;
   padding: 1px;
+  filter: brightness(0.7);
 }

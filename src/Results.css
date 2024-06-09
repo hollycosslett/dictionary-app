@@ -1,13 +1,16 @@
 .Results .word-display {
-  margin-top: 40px;
+  background-color: #212529c9;
+  color: rgb(165, 163, 163);
+  margin-top: 38px;
   margin-bottom: 40px;
   padding: 10px;
   border: 2px solid;
-  border-radius: 10px;
+  border-radius: 8px;
   box-shadow: 2px 2px 5px 2px rgb(0 0 0/20%);
 }
 
 .Results .word-display h2 {
   margin-top: 20px;
   padding: 10px;
+  font-size: 35px;
 }
